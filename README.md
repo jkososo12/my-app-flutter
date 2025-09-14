@@ -1,6 +1,6 @@
 # neo
 
-A new Flutter project.
+A basic Application developed by Flutter  
 
 ## Getting Started
 
